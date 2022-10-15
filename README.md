@@ -3,7 +3,9 @@ The objective of this project is to retrieve information about the imdb top 250 
 
 ## Table of Contents
 [Installation](#Installation)
+
 [Data](#Data)
+
 [Contents](#Contents)
 
 ### Installation
