@@ -2,9 +2,9 @@
 The objective of this project is to retrieve information about the imdb top 250 movies. The data will be used to create visualizations and tell a story about the data.
 
 ## Table of Contents
-[Installation]#Installation
-[Data]#Data
-[Contents]#Contents
+[Installation](#Installation)
+[Data](#Data)
+[Contents](#Contents)
 
 ### Installation
 For this project, you will need the following libraries:
