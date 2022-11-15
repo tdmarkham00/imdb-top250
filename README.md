@@ -24,6 +24,7 @@ The data is retrieved in two parts. The first part is a list of the top 250 movi
 * Genre - Genre
 * Director - Name of director
 * Score - IMDB rating
+* BoxOffice - Box office amount
 
 
 ### Contents
