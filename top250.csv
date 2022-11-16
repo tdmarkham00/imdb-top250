@@ -1,4 +1,4 @@
-,Title,Year,Rating,Runtime,Genre,Director,Score,Boxoffice
+,Title,Year,Rating,Runtime,Genre,Director,Score,BoxOffice
 0,The Shawshank Redemption,1994,R,142 min,Drama,Frank Darabont,9.3,"$28,767,189"
 1,The Godfather,1972,R,175 min,"Crime, Drama",Francis Ford Coppola,9.2,"$136,381,073"
 2,The Dark Knight,2008,PG-13,152 min,"Action, Crime, Drama",Christopher Nolan,9.0,"$534,987,076"
@@ -8,7 +8,7 @@
 6,The Lord of the Rings: The Return of the King,2003,PG-13,201 min,"Action, Adventure, Drama",Peter Jackson,9.0,"$378,251,207"
 7,Pulp Fiction,1994,R,154 min,"Crime, Drama",Quentin Tarantino,8.9,"$107,928,762"
 8,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178 min,"Action, Adventure, Drama",Peter Jackson,8.8,"$316,115,420"
-9," The Good, the Bad and the Ugly",1966,R,178 min,"Adventure, Western",Sergio Leone,8.8,"$25,100,000"
+9,"The Good, the Bad and the Ugly",1966,R,178 min,"Adventure, Western",Sergio Leone,8.8,"$25,100,000"
 10,Forrest Gump,1994,PG-13,142 min,"Drama, Romance",Robert Zemeckis,8.8,"$330,455,270"
 11,Fight Club,1999,R,139 min,Drama,David Fincher,8.8,"$37,030,102"
 12,The Lord of the Rings: The Two Towers,2002,PG-13,179 min,"Action, Adventure, Drama",Peter Jackson,8.8,"$342,952,511"
@@ -57,7 +57,7 @@
 55,Django Unchained,2012,R,165 min,"Drama, Western",Quentin Tarantino,8.4,"$162,805,434"
 56,WALL·E,2008,G,98 min,"Animation, Adventure, Family",Andrew Stanton,8.4,"$223,808,164"
 57,The Lives of Others,2006,R,137 min,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck,8.4,"$11,286,112"
-58,Sunset Blvd,1950,Passed,110 min,"Drama, Film-Noir",Billy Wilder,8.4,"$299,645"
+58,Sunset Blvd.,1950,Passed,110 min,"Drama, Film-Noir",Billy Wilder,8.4,"$299,645"
 59,Paths of Glory,1957,Approved,88 min,"Drama, War",Stanley Kubrick,8.4,N/A
 60,The Great Dictator,1940,G,125 min,"Comedy, Drama, War",Charles Chaplin,8.4,N/A
 61,The Shining,1980,R,146 min,"Drama, Horror",Stanley Kubrick,8.4,"$45,634,352"
@@ -66,7 +66,7 @@
 64,Aliens,1986,R,137 min,"Action, Adventure, Sci-Fi",James Cameron,8.4,"$85,160,248"
 65,Spider-Man: Into the Spider-Verse,2018,PG,117 min,"Animation, Action, Adventure","Bob Persichetti, Peter Ramsey, Rodney Rothman",8.4,"$190,241,310"
 66,American Beauty,1999,R,122 min,Drama,Sam Mendes,8.4,"$130,096,601"
-67,Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95 min,"Comedy, War",Stanley Kubrick,8.4,"$9,440,272"
+67,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95 min,"Comedy, War",Stanley Kubrick,8.4,"$9,440,272"
 68,The Dark Knight Rises,2012,PG-13,164 min,"Action, Drama",Christopher Nolan,8.4,"$448,149,584"
 69,Oldboy,2003,R,120 min,"Action, Drama, Mystery",Park Chan-wook,8.4,"$707,481"
 70,Joker,2019,R,122 min,"Crime, Drama, Thriller",Todd Phillips,8.4,"$335,477,657"
@@ -81,10 +81,10 @@
 79,Once Upon a Time in America,1984,R,229 min,"Crime, Drama",Sergio Leone,8.3,"$5,321,508"
 80,Top Gun: Maverick,2022,PG-13,130 min,"Action, Drama",Joseph Kosinski,8.4,"$716,498,761"
 81,Good Will Hunting,1997,R,126 min,"Drama, Romance",Gus Van Sant,8.3,"$138,433,435"
-82,Your Name,2015,N/A,22 min,Short,Megumi Shiraishi,8.9,N/A
+82,Your Name.,2016,TV-PG,106 min,"Animation, Drama, Fantasy",Makoto Shinkai,8.4,"$5,017,246"
 83,Requiem for a Dream,2000,Unrated,102 min,Drama,Darren Aronofsky,8.3,"$3,635,482"
-84,Toy Story 3,2010,G,103 min,"Animation, Adventure, Comedy",Lee Unkrich,8.3,"$415,004,880"
-85,Singin' in the Rain,1952,G,103 min,"Comedy, Musical, Romance","Stanley Donen, Gene Kelly",8.3,"$1,884,537"
+84,Singin' in the Rain,1952,G,103 min,"Comedy, Musical, Romance","Stanley Donen, Gene Kelly",8.3,"$1,884,537"
+85,Toy Story 3,2010,G,103 min,"Animation, Adventure, Comedy",Lee Unkrich,8.3,"$415,004,880"
 86,3 Idiots,2009,PG-13,170 min,"Comedy, Drama",Rajkumar Hirani,8.4,"$6,532,874"
 87,High and Low,1963,Not Rated,143 min,"Crime, Drama, Mystery",Akira Kurosawa,8.4,"$46,808"
 88,Star Wars: Episode VI - Return of the Jedi,1983,PG,131 min,"Action, Adventure, Fantasy",Richard Marquand,8.3,"$309,306,177"
@@ -98,7 +98,7 @@
 96,M,1931,Passed,99 min,"Crime, Mystery, Thriller",Fritz Lang,8.3,"$35,566"
 97,Lawrence of Arabia,1962,Approved,218 min,"Adventure, Biography, Drama",David Lean,8.3,"$45,306,425"
 98,North by Northwest,1959,Approved,136 min,"Action, Adventure, Mystery",Alfred Hitchcock,8.3,"$66,728"
-99, Vertigo,2014,N/A,124 min,"Comedy, Drama",António-Pedro Vasconcelos,7.3,N/A
+99,Vertigo,1958,PG,128 min,"Mystery, Romance, Thriller",Alfred Hitchcock,8.3,"$7,705,225"
 100,Amélie,2001,R,122 min,"Comedy, Romance",Jean-Pierre Jeunet,8.3,"$33,225,499"
 101,A Clockwork Orange,1971,X,136 min,"Crime, Sci-Fi",Stanley Kubrick,8.3,"$26,617,553"
 102,The Apartment,1960,Approved,125 min,"Comedy, Drama, Romance",Billy Wilder,8.3,"$18,600,000"
@@ -109,13 +109,13 @@
 107,Scarface,1983,R,170 min,"Crime, Drama",Brian De Palma,8.3,"$45,408,703"
 108,The Sting,1973,PG,129 min,"Comedy, Crime, Drama",George Roy Hill,8.3,"$156,000,000"
 109,To Kill a Mockingbird,1962,Approved,129 min,"Crime, Drama",Robert Mulligan,8.3,"$592,237"
-110,Up,2009,PG,96 min,"Animation, Adventure, Comedy","Pete Docter, Bob Peterson",8.3,"$293,004,164"
-111,Incendies,2010,R,131 min,"Drama, Mystery",Denis Villeneuve,8.3,"$2,071,334"
+110,Incendies,2010,R,131 min,"Drama, Mystery",Denis Villeneuve,8.3,"$2,071,334"
+111,Up,2009,PG,96 min,"Animation, Adventure, Comedy","Pete Docter, Bob Peterson",8.3,"$293,004,164"
 112,Heat,1995,R,170 min,"Action, Crime, Drama",Michael Mann,8.3,"$67,436,818"
 113,Taxi Driver,1976,R,114 min,"Crime, Drama",Martin Scorsese,8.2,"$28,262,574"
 114,A Separation,2011,PG-13,123 min,Drama,Asghar Farhadi,8.3,"$7,099,055"
 115,Metropolis,1927,Not Rated,153 min,"Drama, Sci-Fi",Fritz Lang,8.3,"$1,236,166"
-116,LA Confidential,2016–,N/A,13 min,Reality-TV,N/A,N/A,0
+116,L.A. Confidential,1997,R,138 min,"Crime, Drama, Mystery",Curtis Hanson,8.2,"$64,616,940"
 117,Snatch,2000,R,102 min,"Comedy, Crime",Guy Ritchie,8.2,"$30,328,156"
 118,Die Hard,1988,R,132 min,"Action, Thriller",John McTiernan,8.2,"$83,844,093"
 119,Bicycle Thieves,1948,Not Rated,89 min,Drama,Vittorio De Sica,8.3,"$371,111"
@@ -124,8 +124,8 @@
 122,1917,2019,R,119 min,"Action, Drama, War",Sam Mendes,8.2,"$159,227,644"
 123,Downfall,2004,R,156 min,"Biography, Drama, History",Oliver Hirschbiegel,8.2,"$5,509,040"
 124,For a Few Dollars More,1965,R,132 min,Western,Sergio Leone,8.2,"$15,000,000"
-125,Batman Begins,2005,PG-13,140 min,"Action, Crime, Drama",Christopher Nolan,8.2,"$206,863,479"
-126,Dangal,2016,Not Rated,161 min,"Action, Biography, Drama",Nitesh Tiwari,8.3,"$12,391,761"
+125,Dangal,2016,Not Rated,161 min,"Action, Biography, Drama",Nitesh Tiwari,8.3,"$12,391,761"
+126,Batman Begins,2005,PG-13,140 min,"Action, Crime, Drama",Christopher Nolan,8.2,"$206,863,479"
 127,The Kid,1921,Passed,68 min,"Comedy, Drama, Family",Charles Chaplin,8.3,N/A
 128,Some Like It Hot,1959,Passed,121 min,"Comedy, Music, Romance",Billy Wilder,8.2,N/A
 129,The Father,2020,PG-13,97 min,"Drama, Mystery",Florian Zeller,8.2,"$2,122,771"
@@ -149,7 +149,7 @@
 147,Jurassic Park,1993,PG-13,127 min,"Action, Adventure, Sci-Fi",Steven Spielberg,8.2,"$404,214,720"
 148,Rashomon,1950,Not Rated,88 min,"Crime, Drama, Mystery",Akira Kurosawa,8.2,"$46,808"
 149,The Great Escape,1963,Approved,172 min,"Adventure, Drama, History",John Sturges,8.2,N/A
-150,Kill Bill: Vol 1,2003,R,111 min,"Action, Crime, Drama",Quentin Tarantino,8.2,"$70,099,045"
+150,Kill Bill: Vol. 1,2003,R,111 min,"Action, Crime, Drama",Quentin Tarantino,8.2,"$70,099,045"
 151,No Country for Old Men,2007,R,122 min,"Crime, Drama, Thriller","Ethan Coen, Joel Coen",8.2,"$74,283,625"
 152,Finding Nemo,2003,G,100 min,"Animation, Adventure, Comedy","Andrew Stanton, Lee Unkrich",8.2,"$380,843,261"
 153,The Thing,1982,R,109 min,"Horror, Mystery, Sci-Fi",John Carpenter,8.2,"$19,629,760"
@@ -192,8 +192,8 @@
 190,The Wages of Fear,1953,Not Rated,131 min,"Adventure, Drama, Thriller",Henri-Georges Clouzot,8.2,N/A
 191,Klaus,2019,PG,96 min,"Animation, Adventure, Comedy","Sergio Pablos, Carlos Martínez López",8.1,N/A
 192,Hacksaw Ridge,2016,R,139 min,"Biography, Drama, History",Mel Gibson,8.1,"$67,209,615"
-193,Mr Smith Goes to Washington,1939,Passed,129 min,"Comedy, Drama",Frank Capra,8.1,"$144,738"
-194,Sherlock Jr,1924,Passed,45 min,"Action, Comedy, Romance",Buster Keaton,8.2,"$977,375"
+193,Mr. Smith Goes to Washington,1939,Passed,129 min,"Comedy, Drama",Frank Capra,8.1,"$144,738"
+194,Sherlock Jr.,1924,Passed,45 min,"Action, Comedy, Romance",Buster Keaton,8.2,"$977,375"
 195,Memories of Murder,2003,Not Rated,132 min,"Crime, Drama, Mystery",Bong Joon Ho,8.1,"$15,357"
 196,Wild Tales,2014,R,122 min,"Comedy, Drama, Thriller",Damián Szifron,8.1,"$3,106,530"
 197,The Seventh Seal,1957,Not Rated,96 min,"Drama, Fantasy",Ingmar Bergman,8.1,N/A
@@ -202,7 +202,7 @@
 200,Mary and Max,2009,Not Rated,92 min,"Animation, Comedy, Drama",Adam Elliot,8.1,N/A
 201,How to Train Your Dragon,2010,PG,98 min,"Animation, Action, Adventure","Dean DeBlois, Chris Sanders",8.1,"$217,581,231"
 202,The Big Lebowski,1998,R,117 min,"Comedy, Crime","Joel Coen, Ethan Coen",8.1,"$18,254,458"
-203,"Monsters, Inc",2001,G,92 min,"Animation, Adventure, Comedy","Pete Docter, David Silverman, Lee Unkrich",8.1,"$290,642,256"
+203,"Monsters, Inc.",2001,G,92 min,"Animation, Adventure, Comedy","Pete Docter, David Silverman, Lee Unkrich",8.1,"$290,642,256"
 204,Jaws,1975,PG,124 min,"Adventure, Thriller",Steven Spielberg,8.1,"$265,859,065"
 205,Dead Poets Society,1989,PG,128 min,"Comedy, Drama",Peter Weir,8.1,"$95,860,116"
 206,The Passion of Joan of Arc,1928,Passed,114 min,"Biography, Drama, History",Carl Theodor Dreyer,8.2,"$21,877"
@@ -225,9 +225,9 @@
 223,Groundhog Day,1993,PG,101 min,"Comedy, Drama, Fantasy",Harold Ramis,8.1,"$71,107,962"
 224,The Exorcist,1973,R,122 min,Horror,William Friedkin,8.1,"$233,005,644"
 225,The Best Years of Our Lives,1946,Approved,170 min,"Drama, Romance, War",William Wyler,8.1,"$23,650,000"
-226,The Incredibles,2004,PG,115 min,"Animation, Action, Adventure",Brad Bird,8.0,"$261,441,092"
-227,Everything Everywhere All at Once,2022,R,139 min,"Action, Adventure, Comedy","Dan Kwan, Daniel Scheinert",8.1,"$70,008,593"
-228,Jai Bhim,2021,TV-MA,164 min,"Crime, Drama, Mystery",T.J. Gnanavel,8.9,N/A
+226,Jai Bhim,2021,TV-MA,164 min,"Crime, Drama, Mystery",T.J. Gnanavel,8.9,N/A
+227,The Incredibles,2004,PG,115 min,"Animation, Action, Adventure",Brad Bird,8.0,"$261,441,092"
+228,Everything Everywhere All at Once,2022,R,139 min,"Action, Adventure, Comedy","Dan Kwan, Daniel Scheinert",8.1,"$70,008,593"
 229,To Be or Not to Be,1942,Passed,99 min,"Comedy, Romance, War",Ernst Lubitsch,8.2,"$3,270,000"
 230,The Battle of Algiers,1966,Not Rated,121 min,"Drama, War",Gillo Pontecorvo,8.1,"$879,794"
 231,Hachi: A Dog's Tale,2009,G,93 min,"Biography, Drama, Family",Lasse Hallström,8.1,N/A
