@@ -11,9 +11,12 @@ The objective of this project is to retrieve information about the imdb top 250 
 ### Installation
 For this project, you will need the following libraries:
 * Pandas
-* request
+* requests
 * BeautifulSoup
 * omdbapi
+* matplotlib
+* numpy
+* seaborn
 
 
 ### Data
@@ -28,6 +31,6 @@ The data is retrieved in two parts. The first part is a list of the top 250 movi
 
 
 ### Contents
-This repository contains an ipynb containing the code used and a csv of the data exported from the python environment.
+This repository contains notebooks containing the code used and a csv of the data exported from the python environment.
 
 
