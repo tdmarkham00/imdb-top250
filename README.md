@@ -31,6 +31,6 @@ The data is retrieved in two parts. The first part is a list of the top 250 movi
 
 
 ### Contents
-This repository contains notebooks containing the code used and a csv of the data exported from the python environment.
+This repository contains notebooks containing the code used and a csv of the data exported from the python environment. There is also a copy of the Tableau workbook used for creating a simple dashboard.
 
 
